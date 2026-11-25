@@ -1,0 +1,16 @@
+{
+  "type":"create:emptying",
+  "ingredients":
+  [
+    {
+      "item":"butchery:bottle_of_blood"
+    }
+  ],
+  "results":
+  [
+    {"id":"minecraft:glass_bottle"
+    },
+    {"id":"hemodynamics:blood","amount":250
+    }
+  ]
+}

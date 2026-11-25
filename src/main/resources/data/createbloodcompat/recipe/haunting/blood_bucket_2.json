@@ -1,0 +1,14 @@
+{
+  "type":"create:haunting",
+  "ingredients":[
+    {
+      "item":"butchery:blood_bucket"
+    }
+  ],
+  "results":
+  [
+    {
+      "id":"sons_of_sins:blood_bucket"
+    }
+  ]
+}

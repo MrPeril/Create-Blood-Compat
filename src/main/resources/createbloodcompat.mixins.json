@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.mrperil.createbloodcompat.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SinMixin",
+    "ButcheryInfectedMixin",
+    "BloodGrateHemoMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
